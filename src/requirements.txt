@@ -1,0 +1,10 @@
+streamlit==1.29.0
+torch==2.2.0
+torchvision==0.17.0
+matplotlib==3.8.2
+scikit-learn==1.4.0
+
+numpy==1.26.3       # Minimum version
+
+requests==2.26.0    # Exact version
+pandas              # Latest version
